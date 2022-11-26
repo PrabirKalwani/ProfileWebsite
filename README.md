@@ -1,6 +1,6 @@
 # ProfileWebsite
-Hey Fellow Coders !!
-This Website is my first ever github repo and i have made this website to showcase what i have
-done in the past years about my personal self and professional self///
-with this ill try and be more active on github thanks 
-and peace out 
+Fellow Coders !!!
+This Websites Sole purpose was to get to know me better at a personal Level 
+Very simple code And im trying to learn more of web dev
+This my first github repo and trying to be more active on github from now on <3
+THANKS GUYS 🥰🥰🥰
